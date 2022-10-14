@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anoukr1983
-- 👀 I’m interested in data about anything
+- 👀 I’m interested in data about anything (specific: psychology, neuro sciences, pharmacology, artificial intelligence)
 - 🌱 I’m currently learning R (and Java)
 - 💞️ I’m looking to collaborate on projects and my bachelorthesis "Animal Impact in Real Life"
 
